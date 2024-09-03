@@ -6,3 +6,5 @@ Asymptotic Notations
 - Big O : Exact or upper
 - Theta : Exact
 - Omega : Exact or lower
+
+Notes : Always use Theta notation when we know exact order or growth
