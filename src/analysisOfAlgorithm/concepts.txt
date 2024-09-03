@@ -1,2 +1,8 @@
 How to compare terms ?
 C < loglogN < logN < N^1/3 < N^1/2 < N < N^2 < N^3 < N^4 < 2^N < N^N
+
+
+Asymptotic Notations
+- Big O : Exact or upper
+- Theta : Exact
+- Omega : Exact or lower
