@@ -2,6 +2,8 @@ package mathematics;
 
 /*
  * Idea is to find the reverse of the number and compare with original
+ * Time Complexity : Theta(len(N))
+ * Auxilary Space : Theta(1)
  */
 
 class PalindromeTest {
