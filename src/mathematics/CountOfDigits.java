@@ -2,6 +2,8 @@ package mathematics;
 
 /*
  * Idea is to remove last digit in every iteration by dividing by 10 and update the input and do a count
+ * Time Complexity : Theta(len(N))
+ * Auxilary Space : Theta(1)
  */
 
 public class CountOfDigits{
