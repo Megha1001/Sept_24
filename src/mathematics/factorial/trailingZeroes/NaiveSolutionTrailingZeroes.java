@@ -1,6 +1,10 @@
 package mathematics.factorial.trailingZeroes;
 
 import java.math.BigInteger;
+/*
+ * Time Complexity : Theta(N)
+ * Auxilary Complexity : Theta(1)
+ */
 
 public class NaiveSolutionTrailingZeroes {
     public static void main(String args[]){
