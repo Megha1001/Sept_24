@@ -3,7 +3,7 @@ package mathematics;
 /* 
  * Idea : Find the min(a,b)
  * Start from last and find the number that divides both a,b
- * Time Complexity : Theta(min(a,b))
+ * Time Complexity : O(min(a,b))
  * Auxiliary Space : Theta(1)
  */
 
