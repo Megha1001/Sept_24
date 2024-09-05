@@ -1,8 +1,8 @@
 package standardAlgo.mathematics.GCD;
 /*
  * Instead of performing repetative subtraction use %
- * Time Complexity :
- * Auxiliary Space : 
+ * Time Complexity : O(log(min(a,b)))
+ * Auxiliary Space : O(log(min(a,b)))
  */
 
 public class OptimizedImplEuclidienAlgo {
