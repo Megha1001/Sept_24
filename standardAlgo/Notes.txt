@@ -1,0 +1,10 @@
+1. Euclidien Algorithm
+------------------------
+Let b be smaller than a
+    gcd(a, b) = gcd(a-b, b)
+
+Proof :
+    Let 'g' be the GCD(a,b)
+        a=gx and b=gy and GCD(x,y)=1 //otherwise there must be something common b/w a & b
+        a-b = g(x-y)
+        GCD(a-b, b) = g(x-y), otherwise it will contradict GCD(x,y)=1;
