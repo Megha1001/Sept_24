@@ -2,6 +2,7 @@ package standardAlgo.mathematics.GCD;
 /*
  * Instead of performing repetative subtraction use %
  * Time Complexity : O(log(min(a,b)))
+ * With every recursive call the size is significantly reducing by half
  * Auxiliary Space : O(log(min(a,b)))
  */
 
