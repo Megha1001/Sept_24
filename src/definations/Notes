@@ -1,1 +1,4 @@
 - LCM : The smallest number which is divisible by both the numbers
+- Prime Number : A number is said to be prime , if its divisors are only 1 and number itself. 
+    - 2 is the only even prime number
+    - 1 is neither composite(non prime) not prime
