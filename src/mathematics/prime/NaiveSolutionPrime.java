@@ -6,6 +6,8 @@ package mathematics.prime;
  * 
  * Time complexity : O(N) //more preciously N-2, since in worst case it would run for N-2 times.
  * Auxiliary space : O(1)
+ * 
+ * For efficient algo, refer standardAlgo->mathematics->primeNumber Section
  */
 public class NaiveSolutionPrime {
 
